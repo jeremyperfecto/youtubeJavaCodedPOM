@@ -1,0 +1,2 @@
+playback.videoWindowLarge=id=com.google.android.youtube:id/player_overlays
+playback.miniVideo.close=id=com.google.android.youtube:id/floaty_close_button

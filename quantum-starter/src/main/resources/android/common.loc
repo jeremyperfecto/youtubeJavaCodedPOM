@@ -1,0 +1,6 @@
+menu.home=xpath=//*[@content-desc="Home"]
+menu.trending=xpath=//*[@content-desc="Trending"]
+menu.subscriptions=xpath=//*[@content-desc="Subscriptions"]
+menu.activity=xpath=//*[@text="Activity"]
+menu.library=//*[@content-desc="Library"]
+search.searchIcon=xpath=//*[@content-desc="Search"]
